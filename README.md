@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @azalia17
+- 👋 Hi, I’m Azalia
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on anything
