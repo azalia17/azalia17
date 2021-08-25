@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Azalia
-- 👀 I’m interested in Android Development
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Kotlin and Dart
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me? email azaliaaps17@gmail.com
