@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Azalia
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Kotlin and Dart
+- 🌱 I’m currently learning Mobile Development and DevOps
 - 💞️ I’m looking to collaborate on anything
+- 👀 You can see my web portfolio here https://azaliaamanda.vercel.app
 - 📫 How to reach me? email azaliaaps17@gmail.com
 
 <!---
